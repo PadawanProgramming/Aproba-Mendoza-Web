@@ -1,0 +1,6 @@
+{
+  "name": "Aprobá Mendoza",
+  "description": "Landing page educativa y embudo de ventas para preparación de ingreso universitario en Mendoza, Argentina.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
